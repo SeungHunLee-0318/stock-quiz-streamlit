@@ -11,8 +11,8 @@ st.set_page_config(
     layout="centered"
 )
 
-STUDENT_ID = "학번을_입력하세요"
-STUDENT_NAME = "이름을_입력하세요"
+STUDENT_ID = "2024404001"
+STUDENT_NAME = "이승훈"
 
 # =========================
 # 캐싱 함수
